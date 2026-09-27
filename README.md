@@ -4,6 +4,8 @@ QA Automation Engineer based in New Zealand, focused on C#/.NET, API automation,
 
 I build readable, maintainable test systems that provide useful feedback throughout development and delivery.
 
+[![.NET CI](https://github.com/nahidrasel/policypilot-bdd-automation/actions/workflows/dotnet.yml/badge.svg)](https://github.com/nahidrasel/policypilot-bdd-automation/actions/workflows/dotnet.yml)
+
 ## Focus Areas
 
 - **API automation:** Playwright .NET, REST request and response checks, and integration testing
@@ -21,5 +23,4 @@ I build readable, maintainable test systems that provide useful feedback through
 ## Connect
 
 - [Portfolio](https://nahidrasel.github.io/)
-- [LinkedIn](https://www.linkedin.com/)
 - [Email](mailto:nahid.mahmud.qa@gmail.com)
