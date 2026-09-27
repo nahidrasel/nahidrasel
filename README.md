@@ -1,16 +1,25 @@
-## Hi there 👋
+# Nahid Mahmud
 
-<!--
-**nahidrasel/nahidrasel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer based in New Zealand, focused on C#/.NET, API automation, and BDD.
 
-Here are some ideas to get you started:
+I build readable, maintainable test systems that provide useful feedback throughout development and delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+
+- **API automation:** Playwright .NET, REST request and response checks, and integration testing
+- **BDD:** Reqnroll, Gherkin, and xUnit
+- **Web and mobile automation:** Playwright, Selenium, Cypress, and Appium
+- **CI:** GitHub Actions and TRX test reporting
+
+## Selected Work
+
+- [PolicyPilot BDD automation](https://github.com/nahidrasel/policypilot-bdd-automation) - .NET quote API sample combining Playwright API requests, Reqnroll scenarios, xUnit tests, and GitHub Actions reporting.
+- [Playwright .NET Booking API automation](https://github.com/nahidrasel/PlaywrightDotNetBookingApiAutomation) - xUnit and Playwright API checks for the Restful Booker service.
+- [Playwright .NET API automation](https://github.com/nahidrasel/PlaywrightDotNetApiAutomation) - REST endpoint and response validation designed to run in CI.
+- [Data-driven API testing](https://github.com/nahidrasel/DataDrivenAPITestingPlaywright) - Parameterized Playwright API scenarios.
+
+## Connect
+
+- [Portfolio](https://nahidrasel.github.io/)
+- [LinkedIn](https://www.linkedin.com/)
+- [Email](mailto:nahid.mahmud.qa@gmail.com)
