@@ -1,6 +1,6 @@
 # Nahid Mahmud
 
-QA Automation Engineer | C#/.NET | API & Web Testing | BDD
+QA Automation Engineer | Java, Javscript , C#/.NET | API & Web Testing | BDD
 
 [![.NET CI](https://github.com/nahidrasel/policypilot-bdd-automation/actions/workflows/dotnet.yml/badge.svg)](https://github.com/nahidrasel/policypilot-bdd-automation/actions/workflows/dotnet.yml)
 
