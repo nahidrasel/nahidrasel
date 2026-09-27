@@ -22,5 +22,6 @@ I build readable, maintainable test systems that provide useful feedback through
 
 ## Connect
 
+- [LinkedIn](https://www.linkedin.com/in/mahmudnahid/)
 - [Portfolio](https://nahidrasel.github.io/)
 - [Email](mailto:nahid.mahmud.qa@gmail.com)
