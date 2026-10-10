@@ -2,6 +2,9 @@
 
 **QA Automation Engineer | Test Frameworks · UI & API Automation · CI/CD · AI-assisted QA**
 
+[![.NET CI](https://github.com/nahidrasel/policypilot-bdd-automation/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/nahidrasel/policypilot-bdd-automation/actions/workflows/dotnet.yml?query=branch%3Amain)
+[![Playwright CI](https://github.com/nahidrasel/playwright-ts-api-ui-suite/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/nahidrasel/playwright-ts-api-ui-suite/actions/workflows/playwright.yml?query=branch%3Amain)
+
 I build maintainable test automation that helps teams ship with confidence—from reusable framework components and reliable UI/API coverage to CI pipelines and practical AI-assisted test design.
 
 ## What I work on
